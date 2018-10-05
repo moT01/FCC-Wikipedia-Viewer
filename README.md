@@ -22,4 +22,4 @@
 - CSS
 - JavaScript
 - jQuery
-- Wikipedia API
+- [Wikipedia](https://www.wikipedia.org/) API
