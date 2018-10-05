@@ -1,5 +1,5 @@
 ## FCC-Wikipedia-Viewer
-##### Wikipedia viewer project for [freecodecamp.com](https://www.freecodecamp.com/challenges/build-a-wikipedia-viewer)
+##### Wikipedia viewer project for [freeCodeCamp](https://www.freecodecamp.org/)
 ##### Check it out [here](https://mot01.github.io/FCC-Wikipedia-Viewer/)
 
 <br/>
